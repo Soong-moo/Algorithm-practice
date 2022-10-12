@@ -11,7 +11,7 @@ public class P70129 {
 
 	        while(s.length() > 1) {
 	        
-	            int one = 0; // 1ÀÇ °³¼ö
+	            int one = 0;
 	            
 	            for(int i = 0; i < s.length(); i++) {
 	                if(s.charAt(i) == '0') zero++;
