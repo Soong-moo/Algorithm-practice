@@ -1,4 +1,5 @@
 //gcd = 최대공약수, lcd = 최소공배수 (두 수의 곱 / gcd)
+//https://aamoos.tistory.com/236 (how to use gcd, lcd in BigInteger Class) 
 
 package level2;
 
