@@ -15,8 +15,7 @@ public class P9020 {
 		prime[0] = prime[1] = true;
 
 		for (int i = 2; i < Math.sqrt(prime.length); i++) { // 소수 판별
-			if (prime[i])
-				continue;
+			if (prime[i]) continue;
 			for (int j = i * i; j < prime.length; j += i) {
 				prime[j] = true;
 			}
