@@ -8,5 +8,6 @@ int main(void) {
 	printf("%d", A + B);
 
 	return 0;
+	
 
 }
