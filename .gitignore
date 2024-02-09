@@ -76,3 +76,6 @@ dkms.conf
 *.zip
 *.tar.gz
 *.rar
+
+# Mac #
+.DS_Store
